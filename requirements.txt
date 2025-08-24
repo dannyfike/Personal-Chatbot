@@ -1,1 +1,2 @@
-
+in yout terminal paste this:
+pip install requests
