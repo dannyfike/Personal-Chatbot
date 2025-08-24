@@ -1,2 +1,7 @@
-in yout terminal paste this:
+in your terminal just paste this:
 pip install requests
+
+and replace your real API in chatbot.py
+
+
+Enjoy !
